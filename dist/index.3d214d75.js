@@ -27382,7 +27382,7 @@ const App = ()=>{
                 children: [
                     /*#__PURE__*/ (0, _jsxDevRuntime.jsxDEV)("h1", {
                         className: "animate-header",
-                        children: "Our Community Non-Profit"
+                        children: "The Hope Box"
                     }, void 0, false, {
                         fileName: "App.js",
                         lineNumber: 10,
