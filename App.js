@@ -7,7 +7,7 @@ const App = () => {
   return (
     <div className="container">
       <header>
-        <h1 className="animate-header">Our Community Non-Profit</h1>
+        <h1 className="animate-header">The Hope Box</h1>
         <nav>
           <ul>
             <li><a href="#about">About Us</a></li>
